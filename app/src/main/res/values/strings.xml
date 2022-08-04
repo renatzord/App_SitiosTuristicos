@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppSitiosTuristicos</string>
+    <string name="txt_informacionTit">Informacion</string>
+    <string name="txt_informacion">Detalle del sitio turistico </string>
+    <string name="txt_valoracion">Valoracion</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="txt_nombre">Nombre Del Sitio</string>
+    <string name="txt_tituloUbicacion">Ubicacion</string>
+    <string name="txt_Ubicacion">mostrar ubicación</string>
+    <string name="txt_tituloInformacion">Informacion</string>
+    <string name="txt_Informacion">mostrar informacion</string>
+    <string name="txt_Valoracion">VALORACIÓN</string>
+</resources>
